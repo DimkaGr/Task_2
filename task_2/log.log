@@ -1,0 +1,16 @@
+19:39:17.843 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+19:43:27.928 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+19:51:02.400 [main] ERROR by.epam.task.validate.DataValidator - Data is not valid, can't create oval
+19:51:30.308 [main] WARN  by.epam.task.validate.DataValidator - Data is not digit
+19:52:47.015 [main] WARN  by.epam.task.validate.DataValidator - Data is not digit
+19:58:57.513 [main] ERROR by.epam.task.validate.DataValidator - Data is not valid, can't create point
+
+20:00:23.043 [main] ERROR by.epam.task.validate.DataValidator - Data is not valid, can't create oval
+20:14:20.370 [main] ERROR by.epam.task.validate.DataValidator - Data is not valid, can't create point
+20:19:35.578 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:36:55.546 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:37:12.718 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:41:09.290 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:41:58.743 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:48:38.508 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
+20:49:55.474 [main] ERROR by.epam.task.action.ReadFromFile - File tst.txt is not found
