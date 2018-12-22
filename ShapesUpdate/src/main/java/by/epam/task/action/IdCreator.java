@@ -7,6 +7,6 @@ public class IdCreator {
     public static int makeId(){
         Calendar day=Calendar.getInstance();
         counter++;
-        return day.get(Calendar.DAY_OF_MONTH)*(int)(Math.random()+1)*10000+counter;
+        return day.get(Calendar.DAY_OF_MONTH)*(int)((Math.random()+1)*10000)+counter;
     }
 }
